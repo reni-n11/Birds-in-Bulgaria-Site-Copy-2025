@@ -1,5 +1,5 @@
 # Birds in Bulgaria Site Copy (2025)
-A copy I made of the design of the Birds in Bulgaria site (https://www.birdsinbulgaria.org/?l=bg), using ASP.NET and my own MySql database in university.
+A copy I made of the design of the Birds in Bulgaria site (https://www.birdsinbulgaria.org/?l=bg), using ASP.NET and my own MySQL database in university.
 # Features
 1. Home page - a copy of the home page with links to the news page and gallery page.
 2. News page - a copy of the news page.
